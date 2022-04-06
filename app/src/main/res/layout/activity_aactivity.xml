@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/datcauhoi_background"
+    tools:context=".A_Activity">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbars="vertical">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_margin="20dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:text="Đặc điểm nổi bật\n"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:text="Những người thuộc nhóm này có năng khiếu nghệ thuật và sáng tạo. Họ có trí tưởng tượng phong phú, tính cách ngẫu hứng, phong trần nên thường làm việc theo cảm hứng. Họ thường để cảm xúc lấn át lý trí và không thích sự gò bó trong bất kỳ khuôn khổ nào. Họ thường có một năng khiếu hoặc tài lẻ nào đó.
+\n\nNhững người thuộc nhóm này có năng khiếu nghệ thuật và sáng tạo. Họ có trí tưởng tượng phong phú, tính cách ngẫu hứng, phong trần nên thường làm việc theo cảm hứng. Họ thường để cảm xúc lấn át lý trí và không thích sự gò bó trong bất kỳ khuôn khổ nào. Họ thường có một năng khiếu hoặc tài lẻ nào đó. "/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:text="\n-Sáng tạo
+\n-Dễ bị xúc động
+\n-Bộc lộ tình cảm trước một tình huống
+\n-Linh hoạt
+\n-Tin tưởng vào sức mạnh siêu nhiên
+\n-Có óc tưởng tượng phong phú
+\n-Bốc đồng (xốc nổi)
+\n-Nhận xét bằng trực giác
+\n-Độc đáo
+\n-Có khả năng viết hoặc trình bày ý tưởng
+\n-Thoải mái khi bộc lộ những ý kiên riêng
+\n-Nghiên cứu hoặc sáng tạo cái đẹp
+\n-Sáng tạo ý tưởng, chương tình hay cấu trúc mới
+\n-Kiểm soát cá nhân trong cuộc sống và cách sống"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:text="Họ thường thích làm những công việc như:"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:text="Thiết kế đồ họa, phóng viên, thợ chụp ảnh, ca sĩ, diễn viên (điện ảnh, kịch, chèo, cải lương, tuồng…) thợ thủ công mĩ nghệ (chạm khắc gỗ, thêu tranh, làm đồ gốm sứ, chạm bạc…),  nhà báo, bình luận viên, dẫn chương trình,  người mẫu, nghệ sĩ biểu diễn nhạc cụ, nhà thơ, đạo diễn, chuyên viên trang điểm, thiết kế thời trang, chăm sóc cây kiểng, cắm hoa, tỉa rau củ, làm hoa…
+ \nCác ngành nghề trên được đào tạo tại các cơ sở dạy nghề, các trường trung cấp nghề, các trung tâm kĩ thuật tổng hợp - hướng nghiệp, hội Liên hiệp phụ nữ, nhà văn hóa của địa phương."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:text="Các nghề nghiệp phổ biến phù hợp như:"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:text="-Giám đốc quảng cáo.
+\n-Kĩ sư thiết kế đồ họa.
+\n-Kiến trúc sư
+\n-Giáo viên dạy kịch
+\n-Nhà văn, họa sĩ, nhạc sĩ
+\n-Kĩ sư thiết kế mẫu
+\n-Giảng viên văn học…"/>
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

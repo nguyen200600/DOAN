@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Future Jobs</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_account">Account</string>
+    <string name="nav_thong_tin">Thông tin về trường và ngành </string>
+    <string name="nav_tim_nghanh">Tìm Nghành Nghề</string>
+    <string name="nav_kiem_tra">Kiểm tra bản thân</string>
+    <string name="nav_tim_truong">Tìm Trường</string>
+    <string name="nav_my_profile">My Profile</string>
+    <string name="nav_sign_out">Sign out</string>
+    <string name="nav_change_password">Change Password</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    //Headings
+    <string name="heading_one">Định hướng con đường nghề nghiệp của bạn</string>
+    <string name="heading_two">khám phá bản thân thông qua các bài trắc nghiệm</string>
+    <string name="heading_three">Kho thông tin trường đại học và các ngành nghề phong phú</string>
+    <string name="heading_fourth">Cập nhập thường xuyên các bài viết về ngành nghề và các trường đại học</string>
+
+    //Description
+    <string name="desc_one">Sứ mệnh của chúng tôi là xác định được con đường phù hợp với bản thân!</string>
+    <string name="desc_two">Giúp bạn trả lời những câu hỏi: Bạn là ai? Bạn có năng lực gì? Tính cách của bạn ra sao?. Hiểu rõ bản thân hơn bạn sẽ xác định được nhóm ngành chính xác hơn.</string>
+    <string name="desc_three">Đối chiếu tính cách và năng lực bản thân với hơn 5000 các thông tin về ngành nghề và các trường đào tạo trên cả nước.</string>
+    <string name="desc_fourth"> Thường xuyên cập nhập các thông tin về ngành nghề "hot", thông tin tuyển sinh của các trường đại học.</string>
+    //Login-Sign up
+    <string name="login_email_hint">Enter Your Email</string>
+    <string name="login_password_hint">Enter Password</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="mobile_number_mess">We will send you an OTP on this mobile number</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="enter_the_otp_sent_to">Enter the OTP sent to</string>
+    <string name="didn_t_received_the_otp">Didn\'t received the OTP?</string>
+    <string name="resend_otp">RESEND OTP</string>
+    <string name="verify">Verify</string>
+
+    <string name="facebook_app_id">1550642995313867</string>
+
+    <string name="bottom_new"> News </string>
+    <string name="bottom_video"> Videos </string>
+    <string name="bottom_intro"> Giới thiệu Holland </string>
+    <string name="bottom_huongdan"> Hướng dẩn </string>
+    <string name="tieude">GÓC BÀI VIẾT BỔ ÍCH</string>
+    <string name="tieudechovideo">GÓC VIDEO BỔ ÍCH</string>
+
+</resources>

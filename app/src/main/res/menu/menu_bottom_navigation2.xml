@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/bottom_introholland"
+        android:title="@string/bottom_intro"
+        android:icon="@drawable/ic_intro"/>
+    <item android:id="@+id/bottom_huongdanholland"
+        android:title="@string/bottom_huongdan"
+        android:icon="@drawable/ic_huongdan"/>
+</menu>

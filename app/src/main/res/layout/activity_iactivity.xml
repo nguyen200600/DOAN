@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/datcauhoi_background"
+    tools:context=".I_Activity">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbars="vertical">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_margin="20dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:text="Đặc điểm nổi bật\n"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:text="Những người thuộc nhóm này có khả năng phân tích, nghiên cứu rất sâu một vấn đề phức tạp. Họ luôn thích khám phá, tìm tòi, điều tra và tò mò về mọi thứ xung quanh đến mức phải tìm ra nguồn gốc và nguyên nhân của chúng. Thường họ là những người hướng nội, không thích giao tiếp rộng.
+\n\nNhững người thuộc nhóm này có khả năng phân tích, nghiên cứu rất sâu một vấn đề phức tạp. Họ luôn thích khám phá, tìm tòi, điều tra và tò mò về mọi thứ xung quanh đến mức phải tìm ra nguồn gốc và nguyên nhân của chúng. Thường họ là những người hướng nội, không thích giao tiếp rộng. "/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:text="\n-Có kỹ năng phân tích
+\n-Điềm tĩnh khi giải quyết công việc
+\n-Có thể tin tưởng khi giao việc
+\n-Tò mò
+\n-Suy nghĩ độc lập
+\n-Hiểu biết rộng
+\n-Có óc sáng tạo
+\n-Làm việc lôgic
+\n-Chính xác
+\n-Sẵn sàng nhận công việc được phân công
+\n-Được công nhận và kiến thức
+\n-Đóng góp kiến thức mới vào một lĩnh vực
+\n-Thể hiện trình độ kỹ năng cao
+\n-Thực hiện vấn đề phức tạp và nhiệm vụ đòi hỏi cao"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:text="Họ thường thích làm những công việc như:"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:text="Lập trình viên, kĩ thuật viên y tế, kĩ thuật viên phòng thí nghiệm, chăn nuôi, thú y, kỹ thuật viên phục hồi răng, chuyên viên nghiên cứu thị trường, chuyên viên nghiên cứu các lĩnh vực khoa học tự nhiên, khoa học xã hội…
+
+\nCác ngành nghề trên được đào tạo tại các cơ sở dạy nghề, các trường trung cấp nghề, các trung tâm kĩ thuật tổng hợp _ hướng nghiệp của địa phương. Các ngành nghề này cũng được đào tạo trực tiếp tại đơn vị tuyển dụng sau một thời gian thực hành và làm việc trực tiếp tại đơn vị đó."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:text="Các nghề nghiệp phổ biến phù hợp như:"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:text="-Nhà sinh vật học.
+\n-Nha sĩ/Dược sĩ.
+\n-Kĩ sư phần mềm.
+\n-Nhà khảo cổ học.
+\n-Nhà hóa học/vật lí học/địa lí học, nhà nghiên cứu (địa chất, sử, dân tộc học..),
+\n-Bác sĩ, giảng viên đại học, thạc sĩ, tiến sĩ các ngành khoa học tự nhiên và khoa học xã hội…"/>
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

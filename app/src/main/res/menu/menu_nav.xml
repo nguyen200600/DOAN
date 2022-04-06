@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_home"
+            android:title="@string/nav_home"
+            android:icon="@drawable/ic_home"/>
+
+        <item android:id="@+id/nav_thong_tin"
+            android:title="@string/nav_thong_tin"
+            android:icon="@drawable/icon_newspaper"/>
+
+        <item android:id="@+id/nav_kiem_tra"
+            android:title="@string/nav_kiem_tra"
+            android:icon="@drawable/icon_test"/>
+
+        <item android:id="@+id/nav_tim_truong"
+            android:title="@string/nav_tim_truong"
+            android:icon="@drawable/icon_school"/>
+
+        <item android:id="@+id/nav_tim_nghanh"
+            android:title="@string/nav_tim_nghanh"
+            android:icon="@drawable/icon_job"/>
+        <item android:id="@+id/nav_dat_cau_hoi"
+            android:title="Đặt câu hỏi"
+            android:icon="@drawable/ic_datcauhoi"/>
+
+    </group>
+    <item android:title="@string/nav_account">
+        <menu>
+            <item android:id="@+id/nav_my_profile"
+                android:title="@string/nav_my_profile"
+                android:icon="@drawable/ic_my_profile"/>
+            <item android:id="@+id/nav_change_password"
+                android:title="@string/nav_change_password"
+                android:icon="@drawable/ic_change_pass"/>
+            <item android:id="@+id/nav_sign_out"
+                android:title="@string/nav_sign_out"
+                android:icon="@drawable/ic__exit"/>
+        </menu>
+    </item>
+</menu>

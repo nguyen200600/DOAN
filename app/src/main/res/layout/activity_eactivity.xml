@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/datcauhoi_background"
+    tools:context=".E_Activity">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbars="vertical">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_margin="20dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:text="Đặc điểm nổi bật\n"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:text="Những người thuộc nhóm này là những người có sở thích kinh doanh, lãnh đạo, thuyết phục người khác. Họ rất quyết đoán, mạnh bạo và có tầm nhìn xa. Họ mang trong mình sự hài hòa của các nhóm tính cách khác nên hiểu được cách làm việc của mọi người, do đó rất phù hợp cho các vị trí quản lý trong doanh nghiệp và định hướng trong xã hội.
+\n\nNhững người thuộc nhóm này là những người có sở thích kinh doanh, lãnh đạo, thuyết phục người khác.  Họ rất quyết đoán, mạnh bạo và có tầm nhìn xa. Họ mang trong mình sự hài hòa của các nhóm tính cách khác nên hiểu được cách làm việc của mọi người, do đó rất phù hợp cho các vị trí quản lý trong doanh nghiệp và định hướng trong xã hội."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:text="-Thích phiêu lưu
+\n-Có tham vọng
+\n-Quyết đoán trong công việc
+\n-Muốn thi đua
+\n-Ưu hoạt động
+\n-Có nghị lực
+\n-Nhiệt tình
+\n-Có sức thuyết phục
+\n-Ý chí mạnh mẽ
+\n-Có thể nhanh chóng vượt lên người khác
+\n-Ở vị thế có thể thay đổi ý kiến
+\n-Có mức sống cao
+\n-Có quyền gây ảnh hưởng đối với hoạt động của người khác
+\n-Gây ấn tượng đối với người khsac, có địa vị và được kính trọng"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:text="Họ thường thích làm những công việc như:"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:text="Công an, quân đội, quản trị kinh doanh, kĩ thuật hệ thống thông tin, quản trị mạng, chủ doanh nghiệp, chủ đại lý kinh doanh, chuyên viên PR , quản lí khách sạn, bếp trưởng khách sạn cao cấp, kế toán …
+\nCác ngành nghề trên được đào tạo tại các cơ sở dạy nghề, các trường trung cấp nghề, các trường trung cấp cảnh sát, trung cấp quân sự, các trung tâm kĩ thuật tổng hợp- hướng nghiệp, Hội Liên hiệp phụ nữ, nhà văn hóa của địa phương."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:text="Các nghề nghiệp phổ biến phù hợp như:"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:text="-Quản lí khách sạn
+\n-Giám đốc tín dụng, giám đốc ngân hàng
+\n-Sĩ quan công an, sĩ quan quân đội, chánh án, viện kiểm sát nhân dân
+\n-Quản lí giáo dục các cấp
+\n-Kế toán trưởng."/>
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

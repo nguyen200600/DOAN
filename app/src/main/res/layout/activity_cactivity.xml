@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/datcauhoi_background"
+    tools:context=".C_Activity">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbars="vertical">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_margin="20dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:text="Đặc điểm nổi bật\n"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:text="Là những người thích nguyên tắc, làm việc với con số, báo cáo hoặc làm việc với máy móc được sắp đặt trật tự. Họ có khả năng làm việc văn phòng, thống kê; thực hiện các công việc đòi hỏi chi tiết, tỉ mỉ, cẩn thận hoặc làm theo hướng dẫn của người khác.
+\n\nLà những người thích nguyên tắc, làm việc với con số, báo cáo hoặc làm việc với máy móc được sắp đặt trật tự. Họ có khả năng làm việc văn phòng, thống kê; thực hiện các công việc đòi hỏi chi tiết, tỉ mỉ, cẩn thận hoặc làm theo hướng dẫn của người khác."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:text="-Chính xác
+\n-Cẩn thân
+\n-Giữ bí mật khi cần thiết
+\n-Tỉ mỉ
+\n-Có hiệu quả
+\n-Ngăn nắp
+\n-Có tổ chức
+\n-Bền bì
+\n-Chu đáo cẩn thận
+\n-Chịu trách nhiệm và đạt được yêu cầu đề ra
+\n-Hoàn thành những công việc đòi hỏi cẩn thận tỉ mỉ
+\n-Làm những công việc cần sự tin cậy
+\n-Làm những công việc với nhiệm vụ rõ ràng
+\n-Làm công việc theo kê hoạch"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:text="Họ thường thích làm những công việc như:"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:text="Kế toán, thanh tra các ban ngành, thủ thư, thư kí, nhân viên lưu trữ, nhân viên văn phòng, chuyên viên thuế, thủ quỹ, kế toán viên, tiếp tân, bưu điện, nhân viên ngân hàng…
+\nCác ngành nghề trên được đào tạo tại các cơ sở dạy nghề, các trường trung cấp nghề, các trung tâm kĩ thuật tổng hợp- hướng nghiệp, Hội Liên hiệp Phụ nữ, nhà văn hóa của địa phương."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:text="Các nghề nghiệp phổ biến phù hợp như:"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:text="-Cử nhân các ngành ngân hàng, tài chính, hành chánh tổng hợp, tổ chức cán bộ
+\n-Giáo viên
+\n-Kiểm toán viên
+\n-Nghiên cứu viên
+\n-Luật sư
+\n-Công an hình sự…"/>
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

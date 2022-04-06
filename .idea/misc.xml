@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/drawable/background_button.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/drawable/bg_round.xml" value="0.23657407407407408" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/drawable/button_background_blue.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/drawable/datcauhoi_background.xml" value="0.23657407407407408" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/drawable/general_bottom_navigation.xml" value="0.23657407407407408" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/drawable/general_img_background.xml" value="0.23657407407407408" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/drawable/ic__exit.xml" value="0.23657407407407408" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/drawable/ic_change_pass.xml" value="0.23657407407407408" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/drawable/ic_facebook.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/drawable/ic_history.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/drawable/ic_home.xml" value="0.23657407407407408" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/drawable/ic_login_hero.xml" value="0.23657407407407408" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/drawable/ic_my_profile.xml" value="0.23657407407407408" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/drawable/ic_register_hero.xml" value="0.23657407407407408" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/drawable/ic_side_bg.xml" value="0.23657407407407408" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/drawable/transport_ing_background.xml" value="0.23657407407407408" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_aactivity.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_cactivity.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_center.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_detail.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_eactivity.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_enter_otpactivity.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_facebook_auth.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_iactivity.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_mainscreen.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_menu_main.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_ractivity.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_result.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_sactivity.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_splash.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/activity_verify_phone_number.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/custom_new.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/fragment_datcauhoi.xml" value="0.176" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/fragment_huongdanholland.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/fragment_introholland.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/fragment_kiemtrabanthan.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/fragment_lamtest.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/fragment_my_profile.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/fragment_news.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/fragment_result.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/fragment_thongtin.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/fragment_timnganhnghe.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/fragment_timtruong.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/fragment_videos.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/layout_header_nav.xml" value="0.2359375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/singlerow.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/slider_layout.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/layout/video_list.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/menu/menu_bottom_navigation2.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/menu/menu_main.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DOAN/app/src/main/res/menu/menu_nav.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

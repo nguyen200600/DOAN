@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/datcauhoi_background"
+    tools:context=".R_Activity">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbars="vertical">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_margin="20dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:text="Đặc điểm nổi bật\n"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:text="Là những người có tính thực tế, ưa hành động hơn suy nghĩ, thích công việc tay chân hơn trí óc. Thường có thể chất tốt, sức khỏe dẻo dai và cần cù chịu khó.
+\n\nLà những người có tính thực tế, ưa hành động hơn suy nghĩ, thích công việc tay chân hơn trí óc. Thường có thể chất tốt, sức khỏe dẻo dai và cần cù chịu khó. "/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:text="-Mạnh khỏe\n-Dễ thích nghi\n-Thực tế\n-Chân thật\n-Kiên trì\n-Sống theo hiện thực\n-Nghiêm khắc\n-Tự lập\n-Bình tĩnh\n-Linh động trong công việc\n-Làm công việc thực hành\n-Xác định được những tiêu chuẩn một cách rõ ràng\n-Thấy được kết quả công việc\n-Làm việc ở ngoài trời"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:text="Họ thường thích làm những công việc như:"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:text="- Vận hành máy, cơ khí ứng dụng,  bảo trì và sửa chữa ô tô, thiết bị điện, lắp đặt điện, bảo hành, sửa chữa điện- điện tử , tin học, xây dựng, trồng trọt, chăn nuôi, trồng rừng, nuôi trồng thủy sản, mộc dân dụng, mộc mĩ nghệ,  nấu ăn, làm vườn và chăm sóc cây xanh,  cắt may,  thêu, đan, móc,   kĩ thuật phòng lab, lái xe , lái tàu, công nghệ thông tin… y tá điều dưỡng…\n
+
+- Các công việc hoạt động thuộc nhóm kĩ thuật có từ công nhân bậc 2/7,  3/7, công nhân kĩ thuật  trình độ trung cấp nghề...được đào tạo tại các cơ sở dạy nghề, các trường trung cấp nghề,  trung tâm kĩ thuật tổng hợp - hướng nghiệp của địa phương."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:text="Các nghề nghiệp phổ biến phù hợp như:"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:text="-Kỹ sư ô tô.\n-Kỹ sư chế tạo máy.\n-Kỹ sư ngành tự động hóa.\n-Kỹ sư nông, lâm, ngư nghiệp.\n-Kỹ sư thiết kế cảnh quang đô thị, công trình công cộng.\n-Kỹ sư công nghệ may. \n-Kỹ sư công nghệ thông tin.\n-Bác sĩ…"/>
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
